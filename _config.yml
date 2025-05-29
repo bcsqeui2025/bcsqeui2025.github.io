@@ -23,9 +23,9 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "services"
+      type: "Javaz"
     values:
-      layout: "service"
+      layout: "Javaz"
   - scope:
       path: ""
       type: "team"
